@@ -1,0 +1,6 @@
+[2022-09-11T00:23:00.336589+05:30] my_logger.DEBUG: detailed debug information. {"arr1_key":"arr1_value"} []
+[2022-09-11T00:23:00.339009+05:30] my_logger.INFO: interesting events. [] []
+[2022-09-11T00:23:00.339122+05:30] my_logger.NOTICE: normal but significant events. [] []
+[2022-09-11T00:23:00.339210+05:30] my_logger.WARNING: exceptional occurrences that are not errors. [] []
+[2022-09-11T00:23:00.339320+05:30] my_logger.ERROR: runtime errors that do not require immediate action. [] []
+[2022-09-11T00:23:00.339390+05:30] my_logger.CRITICAL: critical conditions. [] []

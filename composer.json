@@ -1,0 +1,17 @@
+{
+    "name": "saif/logging",
+    "autoload": {
+        "psr-4": {
+            "Saif\\Logging\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ansari-saif",
+            "email": "saifhussainansari6@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "2.6"
+    }
+}
